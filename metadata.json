@@ -1,0 +1,6 @@
+{
+  "name": "萬界鐵匠鋪 (Multiverse Forge)",
+  "description": "時空模擬經營 + 鍛造 QTE 動作 + 庫存防衛遊戲。經營跨維度傳奇鐵匠鋪，滿足奇幻、科幻與廢土世界的顧客需求，鍛造神兵並擊退小偷！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
